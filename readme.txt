@@ -1,0 +1,3 @@
+测试用 SQLITE3简单封装类
+在IDBKit中可以指向你自己的SQLITE文件
+调用方式可以参考testdb.py
